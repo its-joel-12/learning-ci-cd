@@ -6,6 +6,6 @@ public class Main {
         System.out.println(new Date());
 //        System.out.println("Hello");
         Student s1 = new Student();
-        s1.sayHello();
+        System.out.println(s1.sayHello());
     }
 }
